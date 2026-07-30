@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local / generated (optional keep sounds — they regenerate on first run)
+# assets/sounds/
+
+# Runtime score can stay tracked at 0; uncomment to ignore local progress:
+# highscore.txt
